@@ -34,7 +34,8 @@ labels)
 
     * La validation croisée k-fold signifie que l’ensemble de données se divise en un nombre K. Elle divise l’ensemble de données au point où l’ensemble de test utilise chaque pli. Comprenons le concept à l’aide de la validation croisée à 5 volets ou K+5. Dans ce scénario, la méthode divise l’ensemble de données en cinq volets. Le modèle utilise le premier pli dans la première itération pour tester le modèle. Il utilise les autres ensembles de données pour former le modèle. Le deuxième pli aide à tester l’ensemble de données et les autres soutiennent le processus de formation. Le même processus se répète jusqu’à ce que l’ensemble de test utilise chaque pli des cinq plis.
 
-1. ![](https://ichi.pro/assets/images/max/724/1*Z54JgbS4DUwWSknhDCvNTQ.png)
+1. Tableau de confusion : 
+![](https://ichi.pro/assets/images/max/724/1*Z54JgbS4DUwWSknhDCvNTQ.png)
 
 1.  * ### Precision:
 
@@ -45,7 +46,8 @@ labels)
     * ### Accuracy:
 
         ( TP + TN ) / N
-1.  * ### ROC: ![](https://developers.google.com/machine-learning/crash-course/images/ROCCurve.svg?hl=fr)
+1.  * ROC: 
+![](https://developers.google.com/machine-learning/crash-course/images/ROCCurve.svg?hl=fr)
 
     * ### UAC:
     
