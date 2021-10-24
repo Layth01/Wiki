@@ -36,7 +36,7 @@ labels)
 
 1. Tableau de confusion : 
 
-![](https://developers.google.com/machine-learning/crash-course/images/ROCCurve.svg)
+![](https://www.lebigdata.fr/wp-content/uploads/2018/12/confusion-matrix-exemple-1024x576.jpg)
 1.  * ### Precision:
 
         TP / ( TP + FP )
@@ -47,7 +47,7 @@ labels)
 
         ( TP + TN ) / N
 1.  * ROC: 
-![](https://developers.google.com/machine-learning/crash-course/images/ROCCurve.svg)
+![](https://ichi.pro/assets/images/max/724/1*pk05QGzoWhCgRiiFbz-oKQ.png)
 
     * ### UAC:
     
