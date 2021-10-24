@@ -48,7 +48,7 @@ labels)
         ( TP + TN ) / N
 1.  * ROC: 
 
-![](https://ichi.pro/assets/images/max/724/1*-tPXUvvNIZDbqXP0qqYNuQ.png)
+![](https://miro.medium.com/max/576/1*MIQXB9LDkPoHunwEXOa8Cg.png)
 
 * ### UAC:
     L’AUC aide à comparer les différents classificateurs. Vous pouvez résumer les performances de chaque classificateur en une seule mesure. L’approche de base pour trouver la CUA est de calculer l’AUROC. Elle est similaire à la probabilité que l’instance négative aléatoire soit inférieure à l’instance positive. Si un classificateur a une CUA inférieure à celle d’un autre classificateur, cela signifie normalement que le score de la CUA élevée n’est pas bon. Cependant, la SSC fonctionne bien dans le cadre de la mesure générale de la précision prédictive.
