@@ -37,15 +37,15 @@ labels)
 9. Tableau de confusion : 
 
 ![](https://www.lebigdata.fr/wp-content/uploads/2018/12/confusion-matrix-exemple-1024x576.jpg)
-10.  * ### Precision:
-
+10. 
+```
+    Precision:
         TP / ( TP + FP )
-    * ### Recall:
-
+    Recall:
         TP / ( TP + FN )
-    * ### Accuracy:
-
+    Accuracy:
         ( TP + TN ) / N
+```
 11.  * ROC: 
 
 ![](https://miro.medium.com/max/576/1*MIQXB9LDkPoHunwEXOa8Cg.png)
