@@ -47,7 +47,7 @@ labels)
 
         ( TP + TN ) / N
 1.  * ROC: 
-![](https://developers.google.com/machine-learning/crash-course/images/ROCCurve.svg?hl=fr)
+![](https://developers.google.com/machine-learning/crash-course/images/ROCCurve.svg)
 
     * ### UAC:
     
